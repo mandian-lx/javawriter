@@ -5,6 +5,7 @@ Version:       2.5.1
 Release:       4%{?dist}
 Summary:       A Java API for generating .java source files
 License:       ASL 2.0
+Group:         Development/Java
 URL:           https://github.com/square/javapoet
 Source0:       https://github.com/square/javapoet/archive/%{name}-%{version}.tar.gz
 
